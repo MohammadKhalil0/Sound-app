@@ -1,6 +1,21 @@
-# music_app
+# 🎶 Sound App - Flutter & Dart
+A simple and interactive sound app built using Flutter and Dart. Tap on various buttons to play iconic ringtones from popular devices like Samsung, Nokia, iPhone, and more. This project demonstrates audio handling using the audioplayers package and a clean, colorful UI.
 
-A new Flutter project.
+## ✅ Features:
+Play different ringtones with a single tap
+
+Dynamic, color-coded buttons for easy navigation
+
+Seamless audio playback using audioplayers
+
+Organized code structure with reusable widgets
+
+Minimalist design with intuitive user experience
+
+## 📦 Libraries Used:
+audioplayers: For audio playback functionality
+
+flutter/material.dart: For UI components and styling
 
 ## Getting Started
 
